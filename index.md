@@ -1,3 +1,9 @@
-Welcome to the Dexy site
+Welcome to the Dexy example
 
-How will this get rendered?
+Check out the examples:
+
+* [All Examples](all-examples)
+* [Python Example](py-example)
+* [R Example](r-example)
+
+
